@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8D3131FF&size=35&center=true&vCenter=false&width=1000&lines=Olá,+Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A45C0DFF&size=35&center=true&vCenter=false&width=1000&lines=Olá,+Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 </h3>
 
@@ -29,3 +29,30 @@
  </a> 
 </p>
 <br />
+
+
+<!-- Skills Section -->
+## Linguagens e Ferramentas:
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git/GitHub](https://img.shields.io/badge/Git/GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-1F1F1F?style=for-the-badge&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
+
+<!-- GitHub Stats -->
+<div align="center">
+  <a href="https://github.com/cicerohenryque">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cicerohenryque&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerohenryque&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</div>
+
+---
